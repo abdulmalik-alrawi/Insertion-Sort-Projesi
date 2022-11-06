@@ -17,7 +17,7 @@
 4-Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? . Dizinin sıralanmış halinde .
 [2,6,16,18,22,27] 18 ne en başta(best case) ne en sonda(worst case) olmadığı için 18 average case kapsamına girer.
 
-[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını .
 1- en küçük sayı olan 2 ile 7 swap yapar.
 [2,3,5,8,7,9,4,15,6] 2-3 zaten olması gereken yerde olduğu için herhangi bir yer değişimi olmaz.
 [2,3,5,8,7,9,4,15,6] 3-4 ile 5 swap yapar.
